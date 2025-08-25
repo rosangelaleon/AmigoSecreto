@@ -11,3 +11,6 @@ Aplicación web para sorteos de amigo secreto.
 - script.js - Funcionalidad
 
 **Tecnologías:** HTML, CSS, JavaScript, Bootstrap
+
+## Prueba la aplicación
+**[Ir a AmigoSecreto](https://amigo-secreto-livid-five.vercel.app/)**
